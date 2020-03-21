@@ -1,6 +1,6 @@
 {
   "name": "simple.string.format",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple String.format() in javascript",
   "main": "index.js",
   "directories": {
