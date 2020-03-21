@@ -1,0 +1,29 @@
+{
+  "name": "simple.string.format",
+  "version": "1.0.0",
+  "description": "Simple String.format() in javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeshaker/string.format.git"
+  },
+  "keywords": [
+    "String.format()",
+    "string.format"
+  ],
+  "author": "Mike Shaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeshaker/string.format/issues"
+  },
+  "homepage": "https://github.com/mikeshaker/string.format#readme",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
