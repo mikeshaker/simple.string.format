@@ -1,6 +1,10 @@
 # simple.string.format
 Simple String.format() in javascript
 
+![NPM](https://img.shields.io/npm/l/simple.string.format)
+![npm](https://img.shields.io/npm/v/simple.string.format)
+![npm bundle size](https://img.shields.io/bundlephobia/min/simple.string.format)
+![GitHub issues](https://img.shields.io/github/issues-raw/mikeshaker/simple.string.format)
 # Usage
 
 ```javascript
@@ -18,4 +22,5 @@ Simple String.format() in javascript
 ```
 # Demo
 [Example 1](https://codesandbox.io/s/simplestringformat-yuc2x)
+
 [Example 2](https://stackblitz.com/edit/simple-string-format)
