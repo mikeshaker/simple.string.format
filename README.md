@@ -7,6 +7,9 @@ Simple String.format() in javascript.
 ![npm](https://img.shields.io/npm/v/simple.string.format)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/simple.string.format)
 ![GitHub issues](https://img.shields.io/github/issues-raw/mikeshaker/simple.string.format)
+# Getting Started
+## Installation
+     npm i simple.string.format 
 # Usage
 
 ```javascript
