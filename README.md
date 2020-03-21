@@ -1,5 +1,7 @@
 # simple.string.format
-Simple String.format() in javascript
+Simple String.format() in javascript.
+
+## Lightweight ![npm bundle size](https://img.shields.io/bundlephobia/min/simple.string.format), Zero-dependency
 
 ![NPM](https://img.shields.io/npm/l/simple.string.format)
 ![npm](https://img.shields.io/npm/v/simple.string.format)

@@ -1,6 +1,6 @@
 {
   "name": "simple.string.format",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple String.format() in javascript",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,8 @@
   },
   "keywords": [
     "String.format()",
-    "string.format"
+    "string.format",
+    "string format"
   ],
   "author": "Mike Shaker",
   "license": "MIT",
