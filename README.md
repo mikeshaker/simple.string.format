@@ -1,4 +1,4 @@
-# string.format
+# simple.string.format
 Simple String.format() in javascript
 
 # Usage
@@ -17,4 +17,5 @@ Simple String.format() in javascript
 
 ```
 # Demo
-[Example](https://codesandbox.io/s/simplestringformat-yuc2x)
+[Example 1](https://codesandbox.io/s/simplestringformat-yuc2x)
+[Example 2](https://stackblitz.com/edit/simple-string-format)
