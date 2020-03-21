@@ -28,3 +28,21 @@ Simple String.format() in javascript.
 [Demo 2 (codesandbox)](https://codesandbox.io/s/simplestringformat-yuc2x)
 
 [Demo 3 (stackblitz)](https://stackblitz.com/edit/simple-string-format)
+
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.mikeshaker.com/"><img src="https://avatars2.githubusercontent.com/u/5230588?v=4" width="100px;" alt="Mike Shaker"/><br /><sub><b>Mike Shaker</b></sub></a><br /><a href="#infra-mikeshaker" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/mikeshaker/auctionMobileApp/commits?author=mikeshaker" title="Tests">⚠️</a> <a href="https://github.com/mikeshaker/auctionMobileApp/commits?author=mikeshaker" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
