@@ -1,7 +1,7 @@
 # simple.string.format
 Simple String.format() in javascript.
 
-## Lightweight ![npm bundle size](https://img.shields.io/bundlephobia/min/simple.string.format), Zero-dependency
+## Lightweight, Zero-dependency
 
 ![NPM](https://img.shields.io/npm/l/simple.string.format)
 ![npm](https://img.shields.io/npm/v/simple.string.format)
@@ -23,6 +23,8 @@ Simple String.format() in javascript.
 
 ```
 # Demo
-[Example 1](https://codesandbox.io/s/simplestringformat-yuc2x)
+[Demo 1 (RunKit)](https://runkit.com/mikeshaker/simple-string-format)
 
-[Example 2](https://stackblitz.com/edit/simple-string-format)
+[Demo 2 (codesandbox)](https://codesandbox.io/s/simplestringformat-yuc2x)
+
+[Demo 3 (stackblitz)](https://stackblitz.com/edit/simple-string-format)
